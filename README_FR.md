@@ -49,7 +49,7 @@ Chaque facture produite est :
 - exploitable par un système (XML embarqué)  
 - conforme aux exigences d’interopérabilité européennes
 
-[![Facturation Factur-X](https://img.shields.io/badge/Facturation%20Factur--X-0095b1?style=flat)](https://palks-studio.com/fr/facturation-facturx)
+[Accéder à la ressource](https://palks-studio.com/fr/facturation-facturx)
 
 ---
 
