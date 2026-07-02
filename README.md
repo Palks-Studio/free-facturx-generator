@@ -49,7 +49,7 @@ Each generated invoice is:
 - processable by systems (embedded XML)  
 - compliant with European interoperability requirements
 
-[![Factur-X Invoice Generation](https://img.shields.io/badge/Factur--X%20Invoice%20Generation-0095b1?style=flat)](https://palks-studio.com/en/facturx-invoice-generation)
+[Access the Resource](https://palks-studio.com/en/facturx-invoice-generation)
 
 ---
 
