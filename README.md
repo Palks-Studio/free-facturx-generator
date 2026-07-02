@@ -12,7 +12,7 @@
 ![Architecture](https://img.shields.io/badge/Type-System-0a5645?style=flat)
 [![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
-[![Factur-X Invoicing](https://img.shields.io/badge/Factur--X%20Invoicing-0095b1?style=flat)](https://palks-studio.com/en/facturation-facturx)
+[![Factur-X Invoicing](https://img.shields.io/badge/Factur--X%20Invoicing-0095b1?style=flat)](https://palks-studio.com/en/facturx-invoice-generation)
 
 <p align="center">
   <a href="https://palks-studio.com">
