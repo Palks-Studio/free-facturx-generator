@@ -53,18 +53,15 @@ Each generated invoice is:
 
 ---
 
-## Tax compliance — VAT legal mentions
+## Tax Compliance – VAT Legal Notices
 
-The system automatically determines and applies the correct VAT legal mention based on the client's zone:
+The system automatically determines and applies the appropriate VAT legal notices based on the issuer's tax regime, the customer's location, their tax status, and the nature of the transaction.
 
-| Situation                                    | Generated mention                                                            |
-|----------------------------------------------|------------------------------------------------------------------------------|
-| Issuer not subject to VAT (micro-enterprise) | TVA non applicable, art. 293B du CGI                                         |
-| EU client with intra-community VAT number    | Reverse charge — VAT due by the recipient, art. 283-2 of the French Tax Code |
-| Non-EU client                                | VAT exemption — art. 262 I of the French General Tax Code                    |
+Tax rules are configured according to the characteristics of the business and the types of transactions supported by the system.
 
-The mention is embedded in both the visible PDF and the structured XML.  
-It is not entered manually — it is determined by the system based on the client's data.
+The applicable legal notice is included in both the visible PDF and the embedded structured XML.
+
+It is not entered manually: the system determines it based on the configured tax rules and the invoice data.
 
 ---
 
