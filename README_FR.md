@@ -12,6 +12,7 @@
 ![Architecture](https://img.shields.io/badge/Type-System-0a5645?style=flat)
 [![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
+[![DEV.to](https://img.shields.io/badge/DEV.to-Technical%20Article-7C3AED?style=flat&logo=devdotto&logoColor=white)](https://dev.to/palks_studio/designing-a-factur-x-en16931-generator-from-business-data-to-a-hybrid-pdf-2ec5)
 [![Facturation Factur-X](https://img.shields.io/badge/Facturation%20Factur--X-0095b1?style=flat)](https://palks-studio.com/fr/facturation-facturx)
 
 <p align="center">
@@ -50,6 +51,10 @@ Chaque facture produite est :
 - conforme aux exigences d’interopérabilité européennes
 
 [Accéder à la ressource](https://palks-studio.com/fr/facturation-facturx)
+
+Pour aller plus loin, un article technique présente la conception du générateur Factur-X, son architecture fondée sur un modèle de données commun, la gestion automatique des règles fiscales et les choix techniques permettant de produire des factures hybrides PDF/XML conformes EN16931, sans dépendance à un SaaS.
+
+👉 [Designing a Factur-X EN16931 Generator: From Business Data to a Hybrid PDF](https://dev.to/palks_studio/designing-a-factur-x-en16931-generator-from-business-data-to-a-hybrid-pdf-2ec5) (DEV.to, en anglais)
 
 ---
 
